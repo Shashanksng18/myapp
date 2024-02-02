@@ -1,0 +1,46 @@
+
+.container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    width: 1000px;
+    /* height: 100vb;
+    width: 100vi;
+    writing-mode: vertical-lr; */
+  }
+  .box {
+    width: 10%;
+    /* margin: 0 10px; */
+    position: relative;
+    text-align: center;
+  }
+  .box span {
+  
+    transform: rotate(20deg);
+  }
+  .box-1 {
+    background-color:#F28585;
+    width: 50vw;
+    text-align: center;
+  }
+  
+  .box-2 {
+    background-color: #FFA447;
+    width: 50svw;
+
+    text-align: center;
+  }
+  
+  .box-3 {
+    background-color: #FFFC9B;
+    width: 50lvw;
+
+    text-align: center;
+  }
+  .box-4 {
+    background-color: #B7E5B4;
+    width: 50dvw;
+
+    text-align: center;
+  }

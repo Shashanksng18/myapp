@@ -1,0 +1,20 @@
+
+.main-container {
+    width: 250px;
+    height: 250px;
+    background-color: blueviolet;
+}
+.main-container .viewport {
+    margin-top: 300px;
+    width: 50vw;
+    height: 50vh;
+    background-color: aquamarine;
+}
+.main-container .percentage {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(51, 185, 140);
+}
+/* .d {
+    height:100%;
+} */
